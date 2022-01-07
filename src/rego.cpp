@@ -169,8 +169,7 @@ mat pow_vec(vec v, vec w)
 field<mat> add_to_tree(vec M, double lM, uli nM, mat tree, double ltree)
 {
 
- uli j;
- uli k;
+ uli j,k;
 
  field<mat> Res(2,1);
 
@@ -188,9 +187,7 @@ field<mat> add_to_tree(vec M, double lM, uli nM, mat tree, double ltree)
 
  }
 
- uli z;
- uli h;
- uli iM=datum::nan;
+ uli z,h,iM;
 
  if(nM>0){ //if1
    
@@ -244,9 +241,11 @@ field<mat> add_to_tree(vec M, double lM, uli nM, mat tree, double ltree)
 vec mov_tree(mat tree, vec M, uli lM, vec vlM, uli max_lM)
 {
 
- uli q; uli k; uli z; uli h; uli iM2;
+ uli q, k, z, h, iM2;
  double sumM;
- vec mov(lM+1); uvec imov; uvec umov; vec mov2; vec M2;
+ vec mov(lM+1); 
+ uvec imov, umov; 
+ vec mov2, M2;
  
  
  mov.fill(-1);
