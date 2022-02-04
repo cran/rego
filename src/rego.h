@@ -1,6 +1,6 @@
 //rego: Automatic time series forecasting and missing value imputation.
 //
-//Copyright (C) Davide Altomare and David Loris <channelattribution.io>
+//Copyright (C) Davide Altomare and David Loris <https://channelattribution.io>
 //
 //This source code is licensed under the MIT license found in the
 //LICENSE file in the root directory of this source tree. 
@@ -10,7 +10,7 @@
 
 //#define language_cpp
 //#define language_python
-#define language_Rgo
+#define language_R
 #include <armadillo>
 
 #define uli unsigned long int

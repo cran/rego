@@ -31,12 +31,12 @@
 \value{An object of \code{class} \code{list} where result$final contains final predictions with confindence intervals and goodness of fit indices, result$forward contains the same information only for forward prediction while result$backward only for backward prediction.}
 
 \author{
-  Davide Altomare (\email{info@channelattribution.net}).
+  Davide Altomare (\email{info@channelattribution.io}).
 }
 
 
 \references{
-\href{https://www.channelattribution.net/docs/rego}{rego Documentation}
+\href{https://channelattribution.io/docs/rego}{rego Documentation}
 }
 
 \examples{
@@ -59,7 +59,7 @@ print(res$final$L_adj)
 
 #example 2: high dimensional problem
 
-Data=read.csv(url("https://app.channelattribution.net/data/Data_sim_1000.csv"),header=FALSE)
+Data=read.csv(url("https://channelattribution.io/data/Data_sim_1000.csv"),header=FALSE)
 
 res=regpred(Data, max_lag=NULL)
 

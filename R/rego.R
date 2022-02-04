@@ -1,6 +1,6 @@
 # rego: Automatic Time Series Forecasting and Missing Value Imputation
 #
-# Copyright (C) Davide Altomare and David Loris <channelattribution.io>
+# Copyright (C) Davide Altomare and David Loris <https://channelattribution.io>
 # 
 # This source code is licensed under the MIT license found in the
 # LICENSE file in the root directory of this source tree. 
@@ -9,7 +9,7 @@
   
 .onAttach = function(libname, pkgname) {
   
- packageStartupMessage("Visit https://www.channelattribution.net/docs/rego for more information about rego")
+ packageStartupMessage("Visit https://channelattribution.io/docs/rego for more information about rego")
  packageStartupMessage(paste0("rego ",.v))
 
 }
