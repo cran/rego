@@ -1,7 +1,7 @@
 Package: rego
 Type: Package
 Title: Automatic Time Series Forecasting and Missing Value Imputation
-Version: 1.5.1
+Version: 1.5.2
 Date: 2022-05-26
 Authors@R: c(
   person("Davide", "Altomare", email = "info@channelattribution.io", role = c("cre", "aut")),
@@ -16,9 +16,9 @@ LinkingTo: Rcpp
 Imports: Rcpp
 SystemRequirements: GNU make
 NeedsCompilation: yes
-Packaged: 2022-05-26 11:32:20 UTC; davide
+Packaged: 2022-05-26 15:38:21 UTC; davide
 Author: Davide Altomare [cre, aut],
   David Loris [aut]
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2022-05-26 12:00:02 UTC
+Date/Publication: 2022-05-26 16:10:02 UTC

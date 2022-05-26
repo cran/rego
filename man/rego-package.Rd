@@ -15,7 +15,7 @@ rego is a machine learning algorithm for predicting and imputing time series. It
 \tabular{ll}{
 Package: \tab rego\cr
 Type: \tab Package\cr
-Version: \tab 1.5.1 \cr
+Version: \tab 1.5.2 \cr
 Date: \tab 2022-05-26 \cr
 License: GPL3 | see file LICENCE
 }
