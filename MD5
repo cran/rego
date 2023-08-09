@@ -1,8 +1,8 @@
 adc9c25f0247df3f44521383dd7cf1d0 *COPYRIGHTS
-f291b8470b2fbc57cd3df3642f9629a0 *DESCRIPTION
+da31e49699a07d4a1df99c6babb295dd *DESCRIPTION
 fe3708957d07ac97a746ad60b44aab0e *LICENSE
 7e48a7151f05b1ccb4f107de0fb17b75 *NAMESPACE
-867fc2492b2fdcdf5d5fee35d9b7e761 *R/rego.R
+7915473dcbd5083f61e34a9b41aefc5f *R/rego.R
 402c7e403e0e7becd3fb8a8adcfa5cf1 *data/Data.rda
 84f619d8f7a6028ab4a0a66d8aa7a693 *inst/COPYRIGHTS
 d273d63619c9aeaf15cdaf76422c4f87 *inst/include/armadillo/LICENSE.txt
@@ -667,10 +667,10 @@ f3cac41d4a2157d42eded042cc8ba4c9 *inst/include/optim-master/header_only_version/
 bae0a9205e5cf8bff8e8b1d4123fc166 *inst/include/optim-master/header_only_version/zeros/broyden.hpp
 64d89db4750f00557d8d54ca27a96b1d *inst/include/optim-master/header_only_version/zeros/broyden_df.hpp
 b667874ff7f82b8c97479c69aab6836b *man/Data.Rd
-9f50f99fedd51dd90d9e5dc9325c6d73 *man/rego-package.Rd
-b4fc63c64d0a7e407a87f600f7649bd4 *man/regpred.Rd
-9e4bb105ca4edf9626e07cb75cb89e47 *src/Makevars
-abf7097afdb713ea35e53251091c28f6 *src/Makevars.win
+9a1100892c497d8e9b6222107bcbe1a7 *man/rego-package.Rd
+9c185230ecd76129388796ba096ba4d2 *man/regpred.Rd
+b73a928a389adbfaa96ba8f0a2e97774 *src/Makevars
+b3b1d3f869ed75e91fea103c22786400 *src/Makevars.win
 1d8ebb516b5a8beed6a172060d00015e *src/init.c
-0aca0d8b08fe22cd37e2d4c444c6f427 *src/rego.cpp
-102829a21a288596599d2111af0d674a *src/rego.h
+c8ce7330e3a6d7bff4f243d1abb54c71 *src/rego.cpp
+9ce44dc1d304f5e363202d063c97c6de *src/rego.h
